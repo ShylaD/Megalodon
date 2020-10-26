@@ -1,0 +1,11 @@
+Model Information:
+* title:	Title
+* source:	https://sketchfab.com/3d-models/title-ffd5247d46504f1cbcd0af2867701f82
+* author:	Shylaaa (https://sketchfab.com/Shylaaa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Title" (https://sketchfab.com/3d-models/title-ffd5247d46504f1cbcd0af2867701f82) by Shylaaa (https://sketchfab.com/Shylaaa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
